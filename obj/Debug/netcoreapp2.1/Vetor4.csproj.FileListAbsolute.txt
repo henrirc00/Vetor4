@@ -1,0 +1,11 @@
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\obj\Debug\netcoreapp2.1\Vetor4.csprojAssemblyReference.cache
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\obj\Debug\netcoreapp2.1\Vetor4.csproj.CoreCompileInputs.cache
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\obj\Debug\netcoreapp2.1\Vetor4.AssemblyInfoInputs.cache
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\obj\Debug\netcoreapp2.1\Vetor4.AssemblyInfo.cs
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\bin\Debug\netcoreapp2.1\Vetor4.deps.json
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\bin\Debug\netcoreapp2.1\Vetor4.runtimeconfig.json
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\bin\Debug\netcoreapp2.1\Vetor4.runtimeconfig.dev.json
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\bin\Debug\netcoreapp2.1\Vetor4.dll
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\bin\Debug\netcoreapp2.1\Vetor4.pdb
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\obj\Debug\netcoreapp2.1\Vetor4.dll
+C:\Users\henrique.rcunha1\PrimeirosPassos\Vetor4\obj\Debug\netcoreapp2.1\Vetor4.pdb
